@@ -3,11 +3,11 @@
   --cor-de-fundo:#F5F5F5;
   --preto:#000000;
   --branco: #FFFFFF;
-  --botao-ativo:#00FFFF;
-  --botao-inativo:#C71585;
-  --texto-fundo:#87CEFA;
+  --botao-ativo:#A020F0;
+  --botao-inativo:#DA70D6;
+  --texto-fundo:#BA55D3	;
   --cor-borda:  #000000;
-  --rosa:#FF00FF;
+  --rosa:	#000000;
 }
 .conteudo-principal { 
 display: flex;
